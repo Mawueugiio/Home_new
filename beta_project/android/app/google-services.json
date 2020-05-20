@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "599056939445",
+    "firebase_url": "https://homesys-iot.firebaseio.com",
+    "project_id": "homesys-iot",
+    "storage_bucket": "homesys-iot.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:599056939445:android:d695a4e9d31628ad2241fc",
+        "android_client_info": {
+          "package_name": "io.homesys.beta_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "599056939445-ld8u3pjsd7etdvotc3f04i6es3qm67ke.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD26oRrPdHrYbpSr7JebdIz2dxxEoj1KUA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "599056939445-ld8u3pjsd7etdvotc3f04i6es3qm67ke.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
