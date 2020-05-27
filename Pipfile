@@ -1,0 +1,14 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+face-recognition = "*"
+cmake = "*"
+dlib = {file = "https://files.pythonhosted.org/packages/63/92/05c3b98636661cb80d190a5a777dd94effcc14c0f6893222e5ca81e74fbc/dlib-19.19.0.tar.gz"}
+
+[requires]
+python_version = "3.6"
