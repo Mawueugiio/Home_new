@@ -33,4 +33,4 @@ We used firebase because it offers a Real-time database. The real-time database 
 Firebase also gives backend services, simple to-use SDKs, and instant UI libraries to confirm clients over the application. It supports authentication using passwords, email id or username.
 One of the important features we wanted was the inclusion of push notifications to notify the user whenever data changes in the database. Firebase makes it easy through the use of firebase cloud messagin functions.
 Lastly, we used tinkercad to model the sensors because it gives a real-time simulation of the sonsors and also posses a wide range of devices suited for our project.
-Link to tinkcercad model: 
+Link to tinkcercad model: https://www.tinkercad.com/things/7Pm3CUshqDc-motion-detection-sensor/editel
